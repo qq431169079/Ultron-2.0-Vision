@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/vision.dir/bot/main.c.o  -o vision 

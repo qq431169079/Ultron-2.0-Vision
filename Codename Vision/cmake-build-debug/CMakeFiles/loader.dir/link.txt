@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/loader.dir/loader/src/binary.c.o CMakeFiles/loader.dir/loader/src/connection.c.o CMakeFiles/loader.dir/loader/src/main.c.o CMakeFiles/loader.dir/loader/src/server.c.o CMakeFiles/loader.dir/loader/src/telnet_info.c.o CMakeFiles/loader.dir/loader/src/util.c.o  -o loader 

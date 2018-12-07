@@ -1,0 +1,180 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/forsaken/Desktop/Codename Vision/loader/src/binary.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+glob.h
+-
+headers/includes.h
+/home/forsaken/Desktop/Codename Vision/loader/src/headers/includes.h
+headers/binary.h
+/home/forsaken/Desktop/Codename Vision/loader/src/headers/binary.h
+
+/home/forsaken/Desktop/Codename Vision/loader/src/connection.c
+sys/socket.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+time.h
+-
+pthread.h
+-
+headers/includes.h
+/home/forsaken/Desktop/Codename Vision/loader/src/headers/includes.h
+headers/connection.h
+/home/forsaken/Desktop/Codename Vision/loader/src/headers/connection.h
+headers/server.h
+/home/forsaken/Desktop/Codename Vision/loader/src/headers/server.h
+headers/binary.h
+/home/forsaken/Desktop/Codename Vision/loader/src/headers/binary.h
+headers/util.h
+/home/forsaken/Desktop/Codename Vision/loader/src/headers/util.h
+
+/home/forsaken/Desktop/Codename Vision/loader/src/headers/binary.h
+includes.h
+/home/forsaken/Desktop/Codename Vision/loader/src/headers/includes.h
+
+/home/forsaken/Desktop/Codename Vision/loader/src/headers/connection.h
+time.h
+-
+pthread.h
+-
+includes.h
+/home/forsaken/Desktop/Codename Vision/loader/src/headers/includes.h
+telnet_info.h
+/home/forsaken/Desktop/Codename Vision/loader/src/headers/telnet_info.h
+
+/home/forsaken/Desktop/Codename Vision/loader/src/headers/includes.h
+stdint.h
+-
+
+/home/forsaken/Desktop/Codename Vision/loader/src/headers/server.h
+sys/epoll.h
+-
+includes.h
+/home/forsaken/Desktop/Codename Vision/loader/src/headers/includes.h
+telnet_info.h
+/home/forsaken/Desktop/Codename Vision/loader/src/headers/telnet_info.h
+connection.h
+/home/forsaken/Desktop/Codename Vision/loader/src/headers/connection.h
+
+/home/forsaken/Desktop/Codename Vision/loader/src/headers/telnet_info.h
+includes.h
+/home/forsaken/Desktop/Codename Vision/loader/src/headers/includes.h
+
+/home/forsaken/Desktop/Codename Vision/loader/src/headers/util.h
+server.h
+/home/forsaken/Desktop/Codename Vision/loader/src/headers/server.h
+includes.h
+/home/forsaken/Desktop/Codename Vision/loader/src/headers/includes.h
+
+/home/forsaken/Desktop/Codename Vision/loader/src/main.c
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+string.h
+-
+unistd.h
+-
+pthread.h
+-
+sys/socket.h
+-
+errno.h
+-
+headers/includes.h
+/home/forsaken/Desktop/Codename Vision/loader/src/headers/includes.h
+headers/server.h
+/home/forsaken/Desktop/Codename Vision/loader/src/headers/server.h
+headers/telnet_info.h
+/home/forsaken/Desktop/Codename Vision/loader/src/headers/telnet_info.h
+headers/binary.h
+/home/forsaken/Desktop/Codename Vision/loader/src/headers/binary.h
+headers/util.h
+/home/forsaken/Desktop/Codename Vision/loader/src/headers/util.h
+
+/home/forsaken/Desktop/Codename Vision/loader/src/server.c
+stdio.h
+-
+stdlib.h
+-
+pthread.h
+-
+sys/epoll.h
+-
+sys/socket.h
+-
+arpa/inet.h
+-
+string.h
+-
+sched.h
+-
+errno.h
+-
+headers/includes.h
+/home/forsaken/Desktop/Codename Vision/loader/src/headers/includes.h
+headers/server.h
+/home/forsaken/Desktop/Codename Vision/loader/src/headers/server.h
+headers/telnet_info.h
+/home/forsaken/Desktop/Codename Vision/loader/src/headers/telnet_info.h
+headers/connection.h
+/home/forsaken/Desktop/Codename Vision/loader/src/headers/connection.h
+headers/binary.h
+/home/forsaken/Desktop/Codename Vision/loader/src/headers/binary.h
+headers/util.h
+/home/forsaken/Desktop/Codename Vision/loader/src/headers/util.h
+
+/home/forsaken/Desktop/Codename Vision/loader/src/telnet_info.c
+stdio.h
+-
+stdint.h
+-
+stdlib.h
+-
+string.h
+-
+headers/includes.h
+/home/forsaken/Desktop/Codename Vision/loader/src/headers/includes.h
+headers/telnet_info.h
+/home/forsaken/Desktop/Codename Vision/loader/src/headers/telnet_info.h
+
+/home/forsaken/Desktop/Codename Vision/loader/src/util.c
+stdint.h
+-
+sys/socket.h
+-
+arpa/inet.h
+-
+fcntl.h
+-
+stdio.h
+-
+string.h
+-
+stdarg.h
+-
+headers/includes.h
+/home/forsaken/Desktop/Codename Vision/loader/src/headers/includes.h
+headers/util.h
+/home/forsaken/Desktop/Codename Vision/loader/src/headers/util.h
+headers/server.h
+/home/forsaken/Desktop/Codename Vision/loader/src/headers/server.h
+

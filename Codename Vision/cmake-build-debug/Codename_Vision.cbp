@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Codename_Vision"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/forsaken/Desktop/Codename Vision/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/forsaken/Desktop/Codename\ Vision/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/forsaken/Desktop/Codename\ Vision/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/forsaken/Desktop/Codename\ Vision/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/forsaken/Desktop/Codename\ Vision/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/forsaken/Desktop/Codename Vision/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/forsaken/Desktop/Codename\ Vision/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/forsaken/Desktop/Codename\ Vision/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/forsaken/Desktop/Codename\ Vision/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/forsaken/Desktop/Codename\ Vision/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/forsaken/Desktop/Codename Vision/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/forsaken/Desktop/Codename\ Vision/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/forsaken/Desktop/Codename\ Vision/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/forsaken/Desktop/Codename\ Vision/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/forsaken/Desktop/Codename\ Vision/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="loader">
+				<Option output="/home/forsaken/Desktop/Codename Vision/cmake-build-debug/loader" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/forsaken/Desktop/Codename Vision/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/forsaken/Desktop/Codename\ Vision/cmake-build-debug/Makefile&quot;  VERBOSE=1 loader"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/forsaken/Desktop/Codename\ Vision/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/forsaken/Desktop/Codename\ Vision/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/forsaken/Desktop/Codename\ Vision/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="loader/fast">
+				<Option output="/home/forsaken/Desktop/Codename Vision/cmake-build-debug/loader" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/forsaken/Desktop/Codename Vision/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/forsaken/Desktop/Codename\ Vision/cmake-build-debug/Makefile&quot;  VERBOSE=1 loader/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/forsaken/Desktop/Codename\ Vision/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/forsaken/Desktop/Codename\ Vision/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/forsaken/Desktop/Codename\ Vision/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="vision">
+				<Option output="/home/forsaken/Desktop/Codename Vision/cmake-build-debug/vision" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/forsaken/Desktop/Codename Vision/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/forsaken/Desktop/Codename\ Vision/cmake-build-debug/Makefile&quot;  VERBOSE=1 vision"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/forsaken/Desktop/Codename\ Vision/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/forsaken/Desktop/Codename\ Vision/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/forsaken/Desktop/Codename\ Vision/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="vision/fast">
+				<Option output="/home/forsaken/Desktop/Codename Vision/cmake-build-debug/vision" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/forsaken/Desktop/Codename Vision/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/forsaken/Desktop/Codename\ Vision/cmake-build-debug/Makefile&quot;  VERBOSE=1 vision/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/forsaken/Desktop/Codename\ Vision/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/forsaken/Desktop/Codename\ Vision/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/forsaken/Desktop/Codename\ Vision/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/forsaken/Desktop/Codename Vision/bot/main.c">
+			<Option target="vision"/>
+		</Unit>
+		<Unit filename="/home/forsaken/Desktop/Codename Vision/loader/src/binary.c">
+			<Option target="loader"/>
+		</Unit>
+		<Unit filename="/home/forsaken/Desktop/Codename Vision/loader/src/connection.c">
+			<Option target="loader"/>
+		</Unit>
+		<Unit filename="/home/forsaken/Desktop/Codename Vision/loader/src/main.c">
+			<Option target="loader"/>
+		</Unit>
+		<Unit filename="/home/forsaken/Desktop/Codename Vision/loader/src/server.c">
+			<Option target="loader"/>
+		</Unit>
+		<Unit filename="/home/forsaken/Desktop/Codename Vision/loader/src/telnet_info.c">
+			<Option target="loader"/>
+		</Unit>
+		<Unit filename="/home/forsaken/Desktop/Codename Vision/loader/src/util.c">
+			<Option target="loader"/>
+		</Unit>
+		<Unit filename="/home/forsaken/Desktop/Codename Vision/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

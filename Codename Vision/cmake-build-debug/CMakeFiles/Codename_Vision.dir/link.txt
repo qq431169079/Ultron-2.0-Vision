@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Codename_Vision.dir/bot/main.c.o  -o Codename_Vision 

@@ -1,0 +1,4 @@
+/home/forsaken/Desktop/Codename Vision/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/forsaken/Desktop/Codename Vision/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/forsaken/Desktop/Codename Vision/cmake-build-debug/CMakeFiles/loader.dir
+/home/forsaken/Desktop/Codename Vision/cmake-build-debug/CMakeFiles/vision.dir
